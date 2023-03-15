@@ -10,3 +10,4 @@ This is a repository for the Open Source Software and Practice course taught by 
 | Student ID | 202000981 |
 | Department | Department of Computer Engineering |
 | Email | 0226daniel@gmail.com |
+| Hobby | Gaming, Movie, Music, Coding |
