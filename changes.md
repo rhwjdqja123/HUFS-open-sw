@@ -1,4 +1,4 @@
-Some changes to PR
+Some changes to PR.
 
 Want to update PR with new commit
 
